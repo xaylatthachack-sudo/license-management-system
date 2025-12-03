@@ -1,0 +1,2 @@
+# license-management-system
+ລະບົບຈັດການໃບອະນຸຍາດດຳເນີນທຸລະກິດ
